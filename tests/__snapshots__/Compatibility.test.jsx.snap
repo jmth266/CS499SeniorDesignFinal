@@ -1,0 +1,545 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`renders correctly on mobile version 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="navbar  navbar-expand navbar-light bg-light "
+    >
+      <div
+        class="container-fluid "
+      >
+        <ul
+          class="nav navbar-nav "
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/Calculator"
+            >
+              Calculator
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/SearchPage"
+            >
+              Search
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <div
+              class="input-group"
+            >
+               
+              <div
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-owns="react-autowhatever-1"
+                class="react-autosuggest__container"
+                role="combobox"
+              >
+                <input
+                  aria-autocomplete="list"
+                  aria-controls="react-autowhatever-1"
+                  autocomplete="off"
+                  class="form-control"
+                  placeholder="Search"
+                  type="text"
+                  value=""
+                />
+                <div
+                  class="react-autosuggest__suggestions-container"
+                  id="react-autowhatever-1"
+                  role="listbox"
+                />
+              </div>
+              <div
+                class="input-group-append"
+              />
+            </div>
+             
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div
+      class="container mb-5 center"
+    >
+      <div
+        class="box justify-content-center"
+      >
+        <h2
+          class="text-xl page-header mt-3 mb-3"
+        >
+          Categories
+        </h2>
+        <div
+          class="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4"
+        >
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Conversion
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Kinetic Energy Equivalent Speed Loss/Gain
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Grade and Superelevation
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            EDR
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Constant, Uniform, or Average Kinematic Equations
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Center of Mass Equations
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Radius Calculation
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Acceleration / Deceleration rate when Acceleration / Deceleration factor is known
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Kinetic Energy and Work
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders correctly on tablet version 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="navbar  navbar-expand navbar-light bg-light "
+    >
+      <div
+        class="container-fluid "
+      >
+        <ul
+          class="nav navbar-nav "
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/Calculator"
+            >
+              Calculator
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/SearchPage"
+            >
+              Search
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <div
+              class="input-group"
+            >
+               
+              <div
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-owns="react-autowhatever-1"
+                class="react-autosuggest__container"
+                role="combobox"
+              >
+                <input
+                  aria-autocomplete="list"
+                  aria-controls="react-autowhatever-1"
+                  autocomplete="off"
+                  class="form-control"
+                  placeholder="Search"
+                  type="text"
+                  value=""
+                />
+                <div
+                  class="react-autosuggest__suggestions-container"
+                  id="react-autowhatever-1"
+                  role="listbox"
+                />
+              </div>
+              <div
+                class="input-group-append"
+              />
+            </div>
+             
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div
+      class="container mb-5 center"
+    >
+      <div
+        class="box justify-content-center"
+      >
+        <h2
+          class="text-xl page-header mt-3 mb-3"
+        >
+          Categories
+        </h2>
+        <div
+          class="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4"
+        >
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Conversion
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Kinetic Energy Equivalent Speed Loss/Gain
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Grade and Superelevation
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            EDR
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Constant, Uniform, or Average Kinematic Equations
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Center of Mass Equations
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Radius Calculation
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Acceleration / Deceleration rate when Acceleration / Deceleration factor is known
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Kinetic Energy and Work
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders correctly on web version 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="navbar  navbar-expand navbar-light bg-light "
+    >
+      <div
+        class="container-fluid "
+      >
+        <ul
+          class="nav navbar-nav "
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/Calculator"
+            >
+              Calculator
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/SearchPage"
+            >
+              Search
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <div
+              class="input-group"
+            >
+               
+              <div
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-owns="react-autowhatever-1"
+                class="react-autosuggest__container"
+                role="combobox"
+              >
+                <input
+                  aria-autocomplete="list"
+                  aria-controls="react-autowhatever-1"
+                  autocomplete="off"
+                  class="form-control"
+                  placeholder="Search"
+                  type="text"
+                  value=""
+                />
+                <div
+                  class="react-autosuggest__suggestions-container"
+                  id="react-autowhatever-1"
+                  role="listbox"
+                />
+              </div>
+              <div
+                class="input-group-append"
+              />
+            </div>
+             
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div
+      class="container mb-5 center"
+    >
+      <div
+        class="box justify-content-center"
+      >
+        <h2
+          class="text-xl page-header mt-3 mb-3"
+        >
+          Categories
+        </h2>
+        <div
+          class="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4"
+        >
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Conversion
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Kinetic Energy Equivalent Speed Loss/Gain
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Grade and Superelevation
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            EDR
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Constant, Uniform, or Average Kinematic Equations
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Center of Mass Equations
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Radius Calculation
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Acceleration / Deceleration rate when Acceleration / Deceleration factor is known
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Kinetic Energy and Work
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders without crashing 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="navbar  navbar-expand navbar-light bg-light "
+    >
+      <div
+        class="container-fluid "
+      >
+        <ul
+          class="nav navbar-nav "
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/Calculator"
+            >
+              Calculator
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/SearchPage"
+            >
+              Search
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <div
+              class="input-group"
+            >
+               
+              <div
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-owns="react-autowhatever-1"
+                class="react-autosuggest__container"
+                role="combobox"
+              >
+                <input
+                  aria-autocomplete="list"
+                  aria-controls="react-autowhatever-1"
+                  autocomplete="off"
+                  class="form-control"
+                  placeholder="Search"
+                  type="text"
+                  value=""
+                />
+                <div
+                  class="react-autosuggest__suggestions-container"
+                  id="react-autowhatever-1"
+                  role="listbox"
+                />
+              </div>
+              <div
+                class="input-group-append"
+              />
+            </div>
+             
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div
+      class="container mb-5 center"
+    >
+      <div
+        class="box justify-content-center"
+      >
+        <h2
+          class="text-xl page-header mt-3 mb-3"
+        >
+          Categories
+        </h2>
+        <div
+          class="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4"
+        >
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Conversion
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Kinetic Energy Equivalent Speed Loss/Gain
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Grade and Superelevation
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            EDR
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Constant, Uniform, or Average Kinematic Equations
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Center of Mass Equations
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Radius Calculation
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Acceleration / Deceleration rate when Acceleration / Deceleration factor is known
+          </button>
+          <button
+            class="btn btn-primary mt-4 text-truncate"
+          >
+            Kinetic Energy and Work
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
